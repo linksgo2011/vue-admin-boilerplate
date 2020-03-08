@@ -14,3 +14,4 @@ done
 if ! $PASS; then
   echo "lint running failed！"
   exit 1
+fi
